@@ -1,0 +1,83 @@
+.navbar{
+    background: #689f38;
+    color: #fff;
+}
+#second{
+    border: 1px solid lightgray;
+}
+#second .container {
+    display: flex;
+    justify-content: space-around;
+}
+.emporium{
+    font-size: xx-large;
+    text-decoration: none;
+}
+.account{
+
+    background: #689f38;
+    color: #fff;
+    border: none
+}
+#first {
+    background: #689f38;
+    color: #fff;
+}
+.arxafon{
+    background: #689f38;
+    color: #fff;
+}
+#fourth .container .row{
+    background: #f2f2f2
+}
+.yaziBir{
+    font-size: 12px
+}
+.yaziIki{
+    font-size: 14px
+}
+#fourth .container .row{
+    height: 100px;
+    text-align: center;
+}
+#fourth .container .row .col-md-3{
+    margin-top: 40px
+}
+
+#third{
+    opacity: 0.8;
+}
+.row .phone{
+    
+}
+#fifth img{
+width: 100%
+}
+#fifth .ucuncu:hover {
+    transition: 0.7s;
+    opacity: 0.7
+}
+#fifth .ikinci:hover {
+    transition: 0.7s;
+    opacity: 0.7
+}
+#fifth .birinci:hover {
+    transition: 0.7s;
+    opacity: 0.7
+}
+#fifth .dorduncu:hover {
+    transition: 0.7s;
+    opacity: 0.7
+}
+#fifth .container{
+    max-width: 1333px !important
+}
+#fourth .container{
+    max-width: 1301px;
+}
+#third .container{
+    max-width: 1332px;
+}
+#sixth .container{
+    max-width: 1333px;
+}
